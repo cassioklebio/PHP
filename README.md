@@ -7,7 +7,7 @@ Repositrório estudo sobre estrutura de dados utilizando a linguagem PHP.
 
 # Objetivos
 
-Mostrar estrutura de dados utilizando a linguagem para **PHP** 
+Mostrar estrutura de dados utilizando a linguagem  **PHP** 
 
 # Projetos
 
